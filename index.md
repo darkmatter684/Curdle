@@ -1,8 +1,8 @@
 ## Welcome to Curdle! 😁
 
 ## The app
-Honeslty, I can't post like 40000 images of the app, it's pretty simple. Here's the basic layout.
 ![Layout](CurdleUI.png)
+Honestly, I can't post like 40000 images of the app, it's pretty simple. Here's the basic layout.
 
 ## Downloads:
 MacOS 64bit: <a href="CurdleMacOS-64.zip">Download .dmg Installer</a> <br/>
@@ -13,7 +13,7 @@ The code is not maleware, I promise. Very reassuring, I know. Anyways, before ru
     
     xattr -rd com.apple.quarantine /Applications/Curdle.app
 
-Then the app should work properly. Once again, there is no malware and this is completly secure, I wouln't try and ever distrubute malicious files knowinly.
+Then the app should work properly. Once again, there is no malware and this is completly secure, I wouln't try and ever distrubute malicious files knowingly.
 
 ## Info
 Welcome to my half-baked site for my app Curdle (I'm in in the process of learning CSS/HTML so yeah). Curdle is a simple, fun word game thats super lightweight on CPU. Futhermore, COMPLETELY FREE AND OPEN SOURCE!
