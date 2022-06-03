@@ -9,4 +9,4 @@ Welcome to my half-assed site for my app Curdle (I'm more of a python person, bu
 
 ## Credits
 Developed by: Abhay Shukla <br/>
-Ok there's probably more to add here but I have no clue so eh 🤷
+Ok there's probably more to add here but I have no clue so for now pretend is there ;)
