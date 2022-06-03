@@ -1,7 +1,7 @@
 ## Welcome to Curdle! 😁
 
 ## Downloads:
-MacOS 64bit: [Download]([url](https://github.com/darkmatter684/Curdle/blob/gh-pages/CurdleMacOS-64.zip?raw=true))<br/>
+MacOS 64bit: [Download]([url](https://github.com/darkmatter684/Curdle/raw/ea63b46d73c617b7893bdca11566b319f3743142/CurdleMacOS-64.zip))<br/>
 Yeah that's kinda all we support currently :(
 
 ## Info
