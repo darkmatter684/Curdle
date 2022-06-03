@@ -1,5 +1,9 @@
 ## Welcome to Curdle! 😁
 
+## The app
+Honeslty, I can't post like 40000 images of the app, it's pretty simple. Here's the basic layout.
+![Layout](CurdleUI.png)
+
 ## Downloads:
 MacOS 64bit: <a href="CurdleMacOS-64.zip">Download File</a> <br/>
 
