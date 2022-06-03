@@ -2,7 +2,14 @@
 
 ## Downloads:
 MacOS 64bit: <a href="CurdleMacOS-64.zip">Download File</a> <br/>
-Yeah that's kinda all we support currently :(
+
+## MacOS Download Info:
+The code is not maleware, I promise. Very reassuring, I know. Anyways, before running the app, follow these inrtuctions:
+1. Open up Terminal and enter the following:
+    
+    xattr -rd com.apple.quarantine /Applications/Curdle.app
+
+Then the app should work properly. Once again, there is no malware and this is completly secure, I wouln't try and ever distrubute malicious files knowinly.
 
 ## Info
 Welcome to my half-baked site for my app Curdle (I'm in in the process of learning CSS/HTML so yeah). Curdle is a simple, fun word game thats super lightweight on CPU. Futhermore, COMPLETELY FREE AND OPEN SOURCE!
