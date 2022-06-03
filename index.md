@@ -2,7 +2,7 @@
 
 ## The app
 ![Layout](CurdleUI.png)
-Honestly, I can't post like 40000 images of the app, it's pretty simple. Here's the basic layout.
+<br/>Honestly, I can't post like 40000 images of the app, it's pretty simple. Here's the basic layout.
 
 ## Downloads:
 MacOS 64bit: <a href="CurdleMacOS-64.zip">Download .dmg Installer</a> <br/>
