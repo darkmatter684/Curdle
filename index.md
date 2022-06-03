@@ -8,8 +8,8 @@
 MacOS 64bit: <a href="CurdleMacOS-64.zip">Download .dmg Installer</a> <br/>
 
 ## MacOS Download Info:
-The code is not malware, I promise. Very reassuring, I know. Anyways, before running the app, follow these instructions:
-</br>0. Install the app (duh)</br>
+The code is not malware, I promise. Very reassuring, I know. Anyways, before running the app, follow these instructions: </br>
+0. Install the app (duh)</br>
 1. Open up Terminal and enter the following:
     
     xattr -rd com.apple.quarantine /Applications/Curdle.app
