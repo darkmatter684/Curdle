@@ -21,7 +21,7 @@ The code is not malware, I promise. Very reassuring, I know. Anyways, after down
 Then the app should work properly after this step is done. Once again, there is no malware and this is completly secure, I wouln't try and ever distrubute malicious files knowingly.
 
 ## Info
-Welcome to my half-baked site for my app Curdle (I'm in in the process of learning CSS/HTML so yeah). Curdle is a simple, fun word game thats super lightweight on CPU. Futhermore, COMPLETELY FREE AND OPEN SOURCE!
+Welcome to my half-baked site for my app Curdle! Curdle is a simple, fun word game thats super lightweight on CPU. Futhermore, COMPLETELY FREE AND OPEN SOURCE!
 
 ## Credits
 Developed by: Abhay Shukla <br/>
