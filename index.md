@@ -5,7 +5,8 @@
 <br/>Honestly, I can't post like 40000 images of the app, it's pretty simple. Here's the basic layout.
 
 ## Downloads:
-MacOS 64bit: <a href="INSTALLERCurdle-x64.zip">Download .dmg Installer</a> <br/>
+MacOS 64bit: <a href="INSTALLERCurdle-x64.zip">Download Installer</a> <br/>
+MacOS 32bit: [Download Installer](https://www.apple.com/shop/buy-mac) <br/>
 
 ## MacOS Download Info:
 The code is not malware, I promise. Very reassuring, I know. Anyways, after downloading the installer, follow these instructions:
